@@ -5,6 +5,10 @@ Apresentação realizada no NerdZão Day #1 na IBM Tutoia dia 12/08/2017
 
 Demo used at NerdZão Day #1, Wearable development board by IoTMakers
 
+Conforme avisei durante a apresentação, estou colocando links para ajudar nas pesquisas desses novos recursos/dicas apresetados.
+
+Qualquer dúvida mande um e-mail douglas@iotmakers.com.br.
+
 * [Fórum IoTMakers](https://github.com/NiklasRosenstein/myo-python)
 * [Blog - Pedro Minatel](http://forum.iotmakers.com.br)
 * [Facebook - IoTMakers](https://www.facebook.com/IoTMakers)
